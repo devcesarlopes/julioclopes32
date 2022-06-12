@@ -57,7 +57,15 @@
 </details>
 
 <details>
-  <summary>🌏 Portifolio</summary>
+  <summary>🌏 Languages</summary>
+<div>
+
+</div>
+
+</details>
+
+<details>
+  <summary>💼 Portifolio</summary>
 <div>
 
 </div>
@@ -103,7 +111,7 @@
 </details>
 
 <details>
-  <summary>⚡ Fun fact: I started my graduation on Electric Engineer but I just found in the middle of the path that I love coding <3 </summary>
+  <summary>⚡ Fun fact: I started my graduation on Electric Engineer but I just found in the middle of the path that I love coding ❤️ and Tech</summary>
 </details>
 </br>
 </br>
