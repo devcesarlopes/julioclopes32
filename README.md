@@ -120,7 +120,7 @@
   <h2 align="center">Community Engagement</h2>
   <p align="center">
     <br/>
-    <a style="border-radius: 10px;" href="https://stackoverflow.com/users/12531920/cesar-lopes"><img src="https://stackoverflow.com/users/flair/12531920.png" width="40%" height="11.15%" alt="profile for Cesar Lopes at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Cesar Lopes at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+    <a style="border-radius: 10px;" href="https://stackoverflow.com/users/12531920/cesar-lopes"><img src="https://stackoverflow.com/users/flair/12531920.png" width="208px" height="58px" alt="profile for Cesar Lopes at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Cesar Lopes at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
   </p>
 </samp>
 
