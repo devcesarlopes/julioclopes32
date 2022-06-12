@@ -133,6 +133,7 @@
     </mask>
     <foreignObject mask="url(#8d85e3cf-f754-4104-93a4-9ad39ece9d64)" x="0" y="0" width="48" height="48"><div class="wrapper-3kah-n selected-1Drb7Z" role="treeitem" data-list-item-id="guildsnav___689261439487049755" tabindex="-1" aria-label=" GruPro">
     <img class="icon-3AqZ2e" src="https://cdn.discordapp.com/icons/689261439487049755/96b0586560338b9e5c5b7151f9ab9783.webp?size=128" alt=" " width="48" height="48" aria-hidden="true">
+    </div>
     </foreignObject>
       </svg>
     
