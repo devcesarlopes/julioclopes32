@@ -133,7 +133,7 @@
   <details>
     <summary>Test</summary>
   </details>
-  <img src="https://pt.wikipedia.org/wiki/Ficheiro:Codecademy.svg" alt="Code Academy">
+  <img src="https://pt.wikipedia.org/wiki/Ficheiro:Codecademy.svg" alt="Code Academy" width="300px">
     
     
  <details>
