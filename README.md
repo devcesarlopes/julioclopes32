@@ -122,5 +122,7 @@
     <br/>
     <a style="border-radius: 10px!important;" href="https://stackoverflow.com/users/12531920/cesar-lopes"><img src="https://stackoverflow.com/users/flair/12531920.png" width="208px" height="58px" alt="profile for Cesar Lopes at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Cesar Lopes at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
   </p>
+  
+  <img src="https://leetcode.card.workers.dev/?username=julioclopes32" alt="Leetcode Stats Card">
 </samp>
 
