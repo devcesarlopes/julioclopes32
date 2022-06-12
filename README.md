@@ -133,24 +133,22 @@
   <details>
     <summary>GruPro UFBA</summary>
   </details>
-  <a href="#"><img src="https://github.com/julioclopes32/julioclopes32/blob/main/gruproUfba.png" alt="Code Academy"></a>
+  <a href="#"><img src="https://github.com/julioclopes32/julioclopes32/blob/main/gruproUfba.png" alt="GruPro UFBA" width="30%"></a>
 
   <details>
     <summary>Free Code Camp</summary>
   </details>
-  <a href="#"><img src="https://github.com/julioclopes32/julioclopes32/blob/main/FCC.png" alt="Code Academy" width="30%"></a>
+  <a href="https://www.freecodecamp.org/julioclopes32"><img src="https://github.com/julioclopes32/julioclopes32/blob/main/FCC.png" alt="Free Code Camp" width="30%"></a>
     
   <details>
     <summary>Code Academy</summary>
   </details>
-  <a href="#"><img src="https://github.com/julioclopes32/julioclopes32/blob/main/CodeAcademy.png" alt="Code Academy"></a>
+  <a href="https://www.codecademy.com/profiles/julioclopes32"><img src="https://github.com/julioclopes32/julioclopes32/blob/main/CodeAcademy.png" alt="Code Academy" width="30%"></a>
     
   <details>
     <summary>Alura</summary>
   </details>
-  <a href="#"><img src="https://github.com/julioclopes32/julioclopes32/blob/main/alura.png" alt="Code Academy"></a>
-
-
+  <a href="https://cursos.alura.com.br/user/julioclopes32"><img src="https://github.com/julioclopes32/julioclopes32/blob/main/alura.png" alt="Alura" width="30%"></a>
 </samp>
 
 
