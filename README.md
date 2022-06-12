@@ -120,9 +120,14 @@
   <h2 align="center">Community Engagement</h2>
   <p align="center">
     <br/>
+    <details>
+      <summary>Stack Overflow</summary>
+    </details>
     <a style="border-radius: 10px!important;" href="https://stackoverflow.com/users/12531920/cesar-lopes"><img src="https://stackoverflow.com/users/flair/12531920.png" alt="profile for Cesar Lopes at Stack Overflow, Q&amp;A for professional and enthusiast programmers" width = "30%" border="3" title="profile for Cesar Lopes at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
   </p>
-  
+  <details>
+    <summary>Leet Code</summary>
+  </details>
   <img src="https://leetcode.card.workers.dev/?username=julioclopes32" alt="Leetcode Stats Card" width="40%">
 </samp>
 
