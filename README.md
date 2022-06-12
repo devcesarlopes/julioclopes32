@@ -136,23 +136,9 @@
   <img src="https://pt.wikipedia.org/wiki/Ficheiro:Codecademy.svg" alt="Code Academy" width="300px">
     
     
- <details>
-      <summary>GruPro UFBA</summary>
-    </details>
-    <svg width="48" height="48" viewBox="0 0 300 48" class="svg-2zuE5p" overflow="visible">
-      <defs>
-        <path d="M0 24C0 16.5449 0 12.8174 1.21793 9.87706C2.84183 5.95662 5.95662 2.84183 9.87706 1.21793C12.8174 0 16.5449 0 24 0C31.4551 0 35.1826 0 38.1229 1.21793C42.0434 2.84183 45.1582 5.95662 46.7821 9.87706C48 12.8174 48 16.5449 48 24C48 31.4551 48 35.1826 46.7821 38.1229C45.1582 42.0434 42.0434 45.1582 38.1229 46.7821C35.1826 48 31.4551 48 24 48C16.5449 48 12.8174 48 9.87706 46.7821C5.95662 45.1582 2.84183 42.0434 1.21793 38.1229C0 35.1826 0 31.4551 0 24Z" id="8d85e3cf-f754-4104-93a4-9ad39ece9d64-blob_mask">
-        </path>
-      </defs>
-      <mask id="8d85e3cf-f754-4104-93a4-9ad39ece9d64" fill="black" x="0" y="0" width="48" height="48">
-        <use href="#8d85e3cf-f754-4104-93a4-9ad39ece9d64-blob_mask" fill="white"></use>
-      </mask>
-      <foreignObject mask="url(#8d85e3cf-f754-4104-93a4-9ad39ece9d64)" x="0" y="0" width="48" height="48"><div class="wrapper-3kah-n selected-1Drb7Z" role="treeitem" data-list-item-id="guildsnav___689261439487049755" tabindex="-1" aria-label=" GruPro">
-      <img class="icon-3AqZ2e" src="https://cdn.discordapp.com/icons/689261439487049755/96b0586560338b9e5c5b7151f9ab9783.webp?size=128" alt=" " width="48" height="48" aria-hidden="true">
-      </div>
-      </foreignObject>
-      </svg>
-  
-  
+  <details>
+    <summary>GruPro UFBA</summary>
+  </details>
+    <img src="[https://pt.wikipedia.org/wiki/Ficheiro:Codecademy.svg](https://github.com/julioclopes32/julioclopes32/blob/main/gruproUfba.png)" alt="Code Academy">
 </samp>
 
