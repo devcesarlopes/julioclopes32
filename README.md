@@ -91,7 +91,7 @@
 </details>
 
 <details>
-    <summary>🔭 I’m currently working at <a href="https://www.linkedin.com/company/ford-motor-company/mycompany/verification/">Ford Motor Company</a></summary>
+    <summary>🔭 I’m currently working at <a href="https://www.linkedin.com/company/ford-motor-company/mycompany/verification/">Ford Motor Company</a></summary> and as a full stack developer on Android Apps (Java) + Web development (NodeJs, React, JavaScript, CSS, HTML)
 </details>
 
 <details>
