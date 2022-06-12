@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">### Hi there <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">,I'm Cesar Lopes ###</h1>
-<h4 align="center">a freelance developer from Brazil an also a computer engineering student at Federal University of Bahia</h4>
+<h4 align="center">A fullStack developer from Brazil an also a Computer engineering student at Federal University of Bahia</h4>
 </div>
 
 <div align="center">
