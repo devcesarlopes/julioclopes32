@@ -117,15 +117,10 @@
 </br>
 
 <samp>
-  <h2 align="center">😎 you can reach me by:</h2>
+  <h2 align="center">Community Engagement</h2>
   <p align="center">
     <br/>
-    <a href="https://www.linkedin.com/in/julioclopes32/" target="blank"><img align="center"
-       src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-       alt="Linkedin" height="30"/></a>
-    <a href="https://julioclopes32@gmail.com" target="blank"><img align="center"
-       src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-       alt="Gmail" height="30"/></a>
+    <a href="https://stackoverflow.com/users/12531920/cesar-lopes"><img src="https://stackoverflow.com/users/flair/12531920.png" width="208" height="58" alt="profile for Cesar Lopes at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Cesar Lopes at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
   </p>
 </samp>
 
