@@ -139,6 +139,6 @@
   <details>
     <summary>GruPro UFBA</summary>
   </details>
-    <img src="[https://pt.wikipedia.org/wiki/Ficheiro:Codecademy.svg](https://github.com/julioclopes32/julioclopes32/blob/main/gruproUfba.png)" alt="Code Academy">
+    <img src="https://github.com/julioclopes32/julioclopes32/blob/main/gruproUfba.png" alt="Code Academy">
 </samp>
 
