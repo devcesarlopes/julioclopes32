@@ -138,7 +138,7 @@
   <details>
     <summary>Free Code Camp</summary>
   </details>
-  <a href="#"><img src="https://github.com/julioclopes32/julioclopes32/blob/main/FCC.png" alt="Code Academy"></a>
+  <a href="#" width="30%"><img src="https://github.com/julioclopes32/julioclopes32/blob/main/FCC.png" alt="Code Academy"></a>
     
   <details>
     <summary>Code Academy</summary>
