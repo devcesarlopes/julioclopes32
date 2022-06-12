@@ -131,14 +131,27 @@
   <img src="https://leetcode.card.workers.dev/?username=julioclopes32" alt="Leetcode Stats Card" width="40%">
   
   <details>
-    <summary>Test</summary>
-  </details>
-  <img src="https://pt.wikipedia.org/wiki/Ficheiro:Codecademy.svg" alt="Code Academy" width="300px">
-    
-    
-  <details>
     <summary>GruPro UFBA</summary>
   </details>
-    <img src="https://github.com/julioclopes32/julioclopes32/blob/main/gruproUfba.png" alt="Code Academy">
+  <a href="#"><img src="https://github.com/julioclopes32/julioclopes32/blob/main/gruproUfba.png" alt="Code Academy"></a>
+
+  <details>
+    <summary>Free Code Camp</summary>
+  </details>
+  <a href="#"><img src="https://github.com/julioclopes32/julioclopes32/blob/main/FCC.png" alt="Code Academy"></a>
+    
+  <details>
+    <summary>Code Academy</summary>
+  </details>
+  <a href="#"><img src="https://github.com/julioclopes32/julioclopes32/blob/main/CodeAcademy.png" alt="Code Academy"></a>
+    
+  <details>
+    <summary>Alura</summary>
+  </details>
+  <a href="#"><img src="https://github.com/julioclopes32/julioclopes32/blob/main/alura.png" alt="Code Academy"></a>
+
+
 </samp>
+
+
 
