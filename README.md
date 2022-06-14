@@ -137,7 +137,7 @@
     <details>
       <summary>Stack Overflow</summary>
     </details>
-    <a style="border-radius: 10px!important;" href="https://stackoverflow.com/users/12531920/cesar-lopes"><img src="https://stackoverflow.com/users/flair/12531920.png" alt="profile for Cesar Lopes at Stack Overflow, Q&amp;A for professional and enthusiast programmers" width = "30%" border="3" title="profile for Cesar Lopes at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+    <a href="https://stackoverflow.com/users/12531920/cesar-lopes"><img src="https://stackexchange.com/users/flair/17302469.png" width="208" height="58" alt="profile for Cesar Lopes on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Cesar Lopes on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
     
   <details>
     <summary>Leet Code</summary>
