@@ -64,14 +64,6 @@
 
 </details>
 
-<details>
-  <summary>💼 Portifolio</summary>
-<div>
-
-</div>
-
-</details>
-
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
@@ -89,13 +81,6 @@
        </p>
      <br>
   </div>    
-</details>
-
-<details>
-  <summary>📈 Activity Graph</summary>
-  <br/>
-  <h2 align="center"> my current activity </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=julioclopes32&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
 
 <details>
