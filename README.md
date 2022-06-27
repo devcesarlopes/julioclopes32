@@ -88,7 +88,7 @@
 </details>
 
 <details>
-  <summary>🌱 I’m currently learning Python, Java and JavaScript</summary>
+  <summary>🌱 I’m currently Working with Python, Java and JavaScript</summary>
 </details>
 
 <details>
